@@ -829,6 +829,15 @@
           },
           "nodeOSSettings": {
             "value": "[variables('nodeOSSettings')]"
+          },
+          "RGName": {
+            "value": "[variables('RGName')]"
+          },
+          "vnetName": {
+            "value": "[variables('vnetName')]"
+          },
+          "subnetName": {
+            "value": "[variables('subnetName')]"
           }
         }
       }
