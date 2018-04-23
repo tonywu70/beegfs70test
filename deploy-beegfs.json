@@ -233,7 +233,7 @@
         "sku": "6.9",
         "version": "latest"
       },
-       "CentOS-HPC_6.8": 
+      "CentOS-HPC_6.8": {
         "publisher": "OpenLogic",
         "offer": "CentOS",
         "sku": "6.8",
