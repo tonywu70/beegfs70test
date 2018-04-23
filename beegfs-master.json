@@ -67,11 +67,7 @@
       "allowedValues": [
         "CentOS_6.9",
         "CentOS_7.2",
-        "CentOS_7.3",
-        "CentOS_7.4",
-        "CentOS-HPC_7.1",
-        "CentOS-HPC_6.8",
-        "SLES12-HPC"
+        "CentOS_7.4"
       ],
       "metadata": {
        "description": "VM Image."
@@ -157,6 +153,12 @@
         "sku": "7.4",
         "version": "latest"
       },
+    "CentOS_6.9": {
+        "publisher": "OpenLogic",
+        "offer": "CentOS",
+        "sku": "6.9",
+        "version": "latest"
+      },    
       "RHEL_7.2": {
         "publisher": "RedHat",
         "offer": "RHEL",
