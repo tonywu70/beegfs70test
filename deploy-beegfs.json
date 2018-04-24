@@ -731,7 +731,7 @@
             "osDisk": {
               "createOption": "FromImage",
               "managedDisk": {
-                "storageAccountType": "Stadnard_LRS"
+                "storageAccountType": "Standard_LRS"
               }
             },
             "imageReference": "[variables('nodeOSSettings').imageReference]",
